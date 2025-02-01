@@ -81,5 +81,6 @@ CREATE TABLE product (
     warrenty INT
 );
 ```
-![Screenshot 2025-02-01 194027](https://github.com/user-attachments/assets/380311d3-a766-4153-8293-9ee89974f2a7)
 ![Screenshot 2025-02-01 193502](https://github.com/user-attachments/assets/30007136-916b-4832-808f-bef7307fb158)
+![Screenshot 2025-02-01 194027](https://github.com/user-attachments/assets/380311d3-a766-4153-8293-9ee89974f2a7)
+
